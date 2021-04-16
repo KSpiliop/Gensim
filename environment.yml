@@ -8,3 +8,4 @@ dependencies:
   - scrapy
   - gensim
   - pyldavis
+  - matplotlib
