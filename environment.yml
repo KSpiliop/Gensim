@@ -2,10 +2,13 @@ name: base
 channels:
   - conda-forge
   - defaults
+  - pip
 dependencies:
   - nltk
   - spacy
   - scrapy
   - gensim
-  - pyldavis
+  - pyLDAvis
   - matplotlib
+  - pandas
+  - pprint
