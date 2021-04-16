@@ -9,4 +9,6 @@ dependencies:
   - pyLDAvis
   - matplotlib
   - pandas
-  - pprint
+  - pip
+  - pip:
+    - pprint
