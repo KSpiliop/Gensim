@@ -3,18 +3,6 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - conda
-  - python=3.8
-  - menuinst
-  - console_shortcut
-  - powershell_shortcut
-  - conda-env
-  - conda-build
-  - conda-verify
-  - _ipyw_jlab_nb_ext_conf
-  - anaconda==2020.11=py38_0
-  - anaconda-navigator
-  - navigator-updater
   - spacy
   - scrapy
   - gensim
