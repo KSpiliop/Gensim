@@ -1,8 +1,6 @@
 name: base
 channels:
-  - conda-forge
   - defaults
-  - pip
 dependencies:
   - nltk
   - spacy
