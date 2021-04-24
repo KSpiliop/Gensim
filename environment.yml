@@ -9,5 +9,6 @@ dependencies:
   - pyLDAvis
   - matplotlib
   - pandas
+  - numpy
   - openpyxl
 
