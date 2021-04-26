@@ -2,9 +2,6 @@ name: base
 channels:
   - defaults
 dependencies:
-  - nltk
-  - spacy
-  - scrapy
   - gensim
   - pyLDAvis
   - matplotlib
